@@ -21,7 +21,7 @@ async function ClientePage() {
 
     return (
         <div>
-            <h1 className="pl-5">Lista de Blogs disponibles</h1>
+            <h1 className="pl-5">Lista de Clientes disponibles</h1>
             <div className="grid grid-cols-3 gap-4 justify-items-center mt-5">
 
                 {
