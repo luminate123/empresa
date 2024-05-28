@@ -11,7 +11,7 @@ function NavbarComponent() {
             <NavbarContent justify="end">
                 <NavbarItem>
                     <Link href="/">
-                        Home
+                        Home1
                     </Link>
                 </NavbarItem>
                 <NavbarItem>
